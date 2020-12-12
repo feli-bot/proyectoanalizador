@@ -1,0 +1,13 @@
+<proceso,1,1>
+<id,mi_proceso,1,9>
+<definir,2,5>
+<id,a,2,13>
+<como,2,15>
+<entero,2,20>
+<token_pyc,2,26>
+<escribir,3,5>
+<id,a1,3,14>
+<token_div,3,16>
+<token_entero,10,3,17>
+<token_pyc,3,19>
+<id,l,4,21>
